@@ -1,2 +1,3 @@
 # facebook-today-news
-Send daily news on Facebook Messenger group
+
+Send daily news through Facebook Messenger group.

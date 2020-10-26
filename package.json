@@ -1,0 +1,16 @@
+{
+  "name": "facebook-today-news",
+  "version": "0.0.1",
+  "description": "Daily news via Facebook Messenger",
+  "main": "app.js",
+  "repository": "git@github.com:nqngo/facebook-today-news.git",
+  "author": "Nhat Ngo <me@nqngo.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn node app.js"
+  },
+  "dependencies": {
+    "facebook-chat-api": "^1.8.0",
+    "weather-au-api": "^0.5.0"
+  }
+}
